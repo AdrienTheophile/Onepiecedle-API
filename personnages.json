@@ -9,7 +9,8 @@
     "prime": 3000000000,
     "hauteur": 174,
     "origine": "East Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "luffy.jpg"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "prime": 1111000000,
     "hauteur": 181,
     "origine": "East Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "zoro.jpg"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "prime": 366000000,
     "hauteur": 170,
     "origine": "East Blue",
-    "premierArc": "Orange"
+    "premierArc": "Orange",
+    "image": "nami.webp"
   },
   {
     "id": 4,

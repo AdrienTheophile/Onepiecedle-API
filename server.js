@@ -10,6 +10,10 @@ const personnages = JSON.parse(jsonString);
 
 app.use(cors())
 
+//dossier 'images' ouvert a tout le monde 
+app.use(express.static("public"))
+
+//config routes
 app.get('/', (req, res) => {
     res.send('API Onepiecedle 2.0 en ligne !')
 })
