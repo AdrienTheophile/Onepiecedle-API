@@ -48,7 +48,8 @@
     "prime": 500000000,
     "hauteur": 176,
     "origine": "East Blue",
-    "premierArc": "Sirop"
+    "premierArc": "Sirop",
+    "image": "usopp.webp"
   },
   {
     "id": 5,
@@ -60,7 +61,8 @@
     "prime": 1032000000,
     "hauteur": 180,
     "origine": "North Blue",
-    "premierArc": "Baratie"
+    "premierArc": "Baratie",
+    "image": "sanji.webp"
   },
   {
     "id": 6,
@@ -72,7 +74,8 @@
     "prime": 1000,
     "hauteur": 90,
     "origine": "Grand Line",
-    "premierArc": "Drum"
+    "premierArc": "Drum",
+    "image": "Chopper.webp"
   },
   {
     "id": 7,
@@ -84,7 +87,8 @@
     "prime": 930000000,
     "hauteur": 188,
     "origine": "West Blue",
-    "premierArc": "Alabasta"
+    "premierArc": "Alabasta",
+    "image": "robin.jpg"
   },
   {
     "id": 8,
@@ -96,7 +100,8 @@
     "prime": 394000000,
     "hauteur": 240,
     "origine": "South Blue",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": ""
   },
   {
     "id": 9,
@@ -108,7 +113,8 @@
     "prime": 383000000,
     "hauteur": 277,
     "origine": "West Blue",
-    "premierArc": "Thriller Bark"
+    "premierArc": "Thriller Bark",
+    "image": "brook.webp"
   },
   {
     "id": 10,
@@ -120,7 +126,8 @@
     "prime": 1100000000,
     "hauteur": 301,
     "origine": "Grand Line",
-    "premierArc": "Impel Down"
+    "premierArc": "Impel Down",
+    "image": "jinbe.jpeg"
   },
   {
     "id": 11,
@@ -132,11 +139,12 @@
     "prime": 4048900000,
     "hauteur": 199,
     "origine": "West Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "shanks.webp"
   },
   {
     "id": 12,
-    "nom": "Buggy",
+    "nom": "Baggy",
     "genre": "Homme",
     "affiliation": "Cross Guild",
     "fruitDuDemon": "Paramecia",
@@ -144,7 +152,8 @@
     "prime": 3189000000,
     "hauteur": 192,
     "origine": "Grand Line",
-    "premierArc": "Orange"
+    "premierArc": "Orange",
+    "image": "baggy.webp"
   },
   {
     "id": 13,
@@ -156,7 +165,8 @@
     "prime": 3000000000,
     "hauteur": 191,
     "origine": "North Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "law.jpg"
   },
   {
     "id": 14,
@@ -168,7 +178,8 @@
     "prime": 3000000000,
     "hauteur": 205,
     "origine": "South Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "kid.webp"
   },
   {
     "id": 15,
@@ -180,7 +191,8 @@
     "prime": 0,
     "hauteur": 193,
     "origine": "East Blue",
-    "premierArc": "Loguetown"
+    "premierArc": "Loguetown",
+    "image": "smoker.webp"
   },
   {
     "id": 16,
@@ -192,7 +204,8 @@
     "prime": 1659000000,
     "hauteur": 191,
     "origine": "Grand Line",
-    "premierArc": "Amazon Lily"
+    "premierArc": "Amazon Lily",
+    "image": "boa.webp"
   },
   {
     "id": 17,
@@ -204,7 +217,8 @@
     "prime": 4611100000,
     "hauteur": 710,
     "origine": "Grand Line",
-    "premierArc": "Punk Hazard"
+    "premierArc": "Punk Hazard",
+    "image": "kaido.jpg"
   },
   {
     "id": 18,
@@ -216,7 +230,8 @@
     "prime": 4388000000,
     "hauteur": 880,
     "origine": "Grand Line",
-    "premierArc": "Île des Hommes-Poissons"
+    "premierArc": "Île des Hommes-Poissons",
+    "image": "linlin.webp"
   },
   {
     "id": 19,
@@ -228,7 +243,8 @@
     "prime": 3996000000,
     "hauteur": 344,
     "origine": "Grand Line",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "teach.jpeg"
   },
   {
     "id": 20,
@@ -240,7 +256,8 @@
     "prime": 5046000000,
     "hauteur": 666,
     "origine": "Grand Line",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "newgate.jpeg"
   },
   {
     "id": 21,
@@ -252,7 +269,8 @@
     "prime": 3590000000,
     "hauteur": 198,
     "origine": "Grand Line",
-    "premierArc": "Baratie"
+    "premierArc": "Baratie",
+    "image": "mihawk.jpeg"
   },
   {
     "id": 22,
@@ -264,7 +282,8 @@
     "prime": 1965000000,
     "hauteur": 253,
     "origine": "Grand Line",
-    "premierArc": "Alabasta"
+    "premierArc": "Alabasta",
+    "image": "crocodile.webp"
   },
   {
     "id": 23,
@@ -276,7 +295,8 @@
     "prime": 5564800000,
     "hauteur": 274,
     "origine": "East Blue",
-    "premierArc": "Loguetown"
+    "premierArc": "Loguetown",
+    "image": "roger.jpg"
   },
   {
     "id": 24,
@@ -288,7 +308,8 @@
     "prime": 0,
     "hauteur": 188,
     "origine": "Grand Line",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "rayleigh.jpg"
   },
   {
     "id": 25,
@@ -300,7 +321,8 @@
     "prime": 550000000,
     "hauteur": 185,
     "origine": "South Blue",
-    "premierArc": "Alabasta"
+    "premierArc": "Alabasta",
+    "image": "ace.webp"
   },
   {
     "id": 26,
@@ -312,7 +334,8 @@
     "prime": 602000000,
     "hauteur": 187,
     "origine": "East Blue",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "sabo.webp"
   },
   {
     "id": 27,
@@ -324,7 +347,8 @@
     "prime": 0,
     "hauteur": 287,
     "origine": "East Blue",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "garp.webp"
   },
   {
     "id": 28,
@@ -336,7 +360,8 @@
     "prime": 0,
     "hauteur": 278,
     "origine": "South Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "sengoku.jpg"
   },
   {
     "id": 29,
@@ -348,7 +373,8 @@
     "prime": 0,
     "hauteur": 306,
     "origine": "North Blue",
-    "premierArc": "Long Ring Long Land"
+    "premierArc": "Enies Lobby",
+    "image": "akainu.png"
   },
   {
     "id": 30,
@@ -360,7 +386,8 @@
     "prime": 0,
     "hauteur": 298,
     "origine": "South Blue",
-    "premierArc": "Long Ring Long Land"
+    "premierArc": "Long Ring Long Land",
+    "image": "kuzan.webp"
   },
   {
     "id": 31,
@@ -372,7 +399,8 @@
     "prime": 0,
     "hauteur": 302,
     "origine": "North Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "kizaru.jpeg"
   },
   {
     "id": 32,
@@ -384,11 +412,12 @@
     "prime": 0,
     "hauteur": 270,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "fujitora.webp"
   },
   {
     "id": 33,
-    "nom": "Donquixote Doflamingo",
+    "nom": "Donquijote Doflamingo",
     "genre": "Homme",
     "affiliation": "Équipage de Donquixote",
     "fruitDuDemon": "Paramecia",
@@ -396,7 +425,8 @@
     "prime": 340000000,
     "hauteur": 305,
     "origine": "Grand Line",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "doflamingo.jpg"
   },
   {
     "id": 34,
@@ -408,7 +438,8 @@
     "prime": 320000000,
     "hauteur": 692,
     "origine": "West Blue",
-    "premierArc": "Thriller Bark"
+    "premierArc": "Thriller Bark",
+    "image": "moria.webp"
   },
   {
     "id": 35,
@@ -416,11 +447,12 @@
     "genre": "Homme",
     "affiliation": "Armée Révolutionnaire",
     "fruitDuDemon": "Paramecia",
-    "haki": [],
+    "haki": ["Observation", "Armement"],
     "prime": 296000000,
     "hauteur": 689,
     "origine": "South Blue",
-    "premierArc": "Thriller Bark"
+    "premierArc": "Thriller Bark",
+    "image": "kuma.jpeg"
   },
   {
     "id": 36,
@@ -432,11 +464,12 @@
     "prime": 0,
     "hauteur": 212,
     "origine": "Grand Line",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "lucci.webp"
   },
   {
     "id": 37,
-    "nom": "Eneru",
+    "nom": "Ener",
     "genre": "Homme",
     "affiliation": "Habitants de la Lune",
     "fruitDuDemon": "Logia",
@@ -444,7 +477,8 @@
     "prime": 0,
     "hauteur": 266,
     "origine": "Skypiea",
-    "premierArc": "Skypiea"
+    "premierArc": "Skypiea",
+    "image": "ener.webp"
   },
   {
     "id": 38,
@@ -456,7 +490,8 @@
     "prime": 1057000000,
     "hauteur": 509,
     "origine": "Grand Line",
-    "premierArc": "Whole Cake Island"
+    "premierArc": "Whole Cake Island",
+    "image": "katakuri.webp"
   },
   {
     "id": 39,
@@ -468,7 +503,8 @@
     "prime": 1390000000,
     "hauteur": 613,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "king.webp"
   },
   {
     "id": 40,
@@ -480,7 +516,8 @@
     "prime": 1320000000,
     "hauteur": 612,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "queen.webp"
   },
   {
     "id": 41,
@@ -492,7 +529,8 @@
     "prime": 1000000000,
     "hauteur": 830,
     "origine": "Grand Line",
-    "premierArc": "Zou"
+    "premierArc": "Zou",
+    "image": "jack.jpg"
   },
   {
     "id": 42,
@@ -504,7 +542,8 @@
     "prime": 1374000000,
     "hauteur": 203,
     "origine": "Grand Line",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "marco.webp"
   },
   {
     "id": 43,
@@ -516,7 +555,8 @@
     "prime": 140000000,
     "hauteur": 174,
     "origine": "South Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "bonney.jpg"
   },
   {
     "id": 44,
@@ -528,7 +568,8 @@
     "prime": 350000000,
     "hauteur": 166,
     "origine": "West Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "bege.jpg"
   },
   {
     "id": 45,
@@ -540,7 +581,8 @@
     "prime": 320000000,
     "hauteur": 210,
     "origine": "North Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "hawkins.webp"
   },
   {
     "id": 46,
@@ -552,7 +594,8 @@
     "prime": 222000000,
     "hauteur": 233,
     "origine": "North Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "xdrake.jpg"
   },
   {
     "id": 47,
@@ -564,7 +607,8 @@
     "prime": 350000000,
     "hauteur": 256,
     "origine": "Grand Line",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "apoo.webp"
   },
   {
     "id": 48,
@@ -576,7 +620,8 @@
     "prime": 108000000,
     "hauteur": 388,
     "origine": "Skypiea",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "urouge.webp"
   },
   {
     "id": 49,
@@ -588,7 +633,8 @@
     "prime": 0,
     "hauteur": 167,
     "origine": "East Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "koby.jpeg"
   },
   {
     "id": 50,
@@ -600,7 +646,8 @@
     "prime": 0,
     "hauteur": 256,
     "origine": "East Blue",
-    "premierArc": "Loguetown"
+    "premierArc": "Loguetown",
+    "image": "dragon.png"
   },
   {
     "id": 51,
@@ -612,7 +659,8 @@
     "prime": 200000000,
     "hauteur": 220,
     "origine": "East Blue",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "bartolomeo.jpg"
   },
   {
     "id": 52,
@@ -624,7 +672,8 @@
     "prime": 330000000,
     "hauteur": 184,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "cavendish.webp"
   },
   {
     "id": 53,
@@ -636,7 +685,8 @@
     "prime": 0,
     "hauteur": 263,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "yamato.webp"
   },
   {
     "id": 54,
@@ -648,11 +698,12 @@
     "prime": 0,
     "hauteur": 240,
     "origine": "Grand Line",
-    "premierArc": "Punk Hazard"
+    "premierArc": "Punk Hazard",
+    "image": "momonosuke.webp"
   },
   {
     "id": 55,
-    "nom": "Kin'emon",
+    "nom": "Kinemon",
     "genre": "Homme",
     "affiliation": "Clan Kozuki",
     "fruitDuDemon": "Paramecia",
@@ -660,7 +711,8 @@
     "prime": 0,
     "hauteur": 295,
     "origine": "Grand Line",
-    "premierArc": "Punk Hazard"
+    "premierArc": "Punk Hazard",
+    "image": "kinemon.webp"
   },
   {
     "id": 56,
@@ -672,7 +724,8 @@
     "prime": 0,
     "hauteur": 347,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "kanjuro.jpg"
   },
   {
     "id": 57,
@@ -684,7 +737,8 @@
     "prime": 0,
     "hauteur": 311,
     "origine": "Grand Line",
-    "premierArc": "Zou"
+    "premierArc": "Zou",
+    "image": "raizo.webp"
   },
   {
     "id": 58,
@@ -696,7 +750,8 @@
     "prime": 0,
     "hauteur": 287,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "kikunojo.webp"
   },
   {
     "id": 59,
@@ -708,7 +763,8 @@
     "prime": 0,
     "hauteur": 511,
     "origine": "Grand Line",
-    "premierArc": "Zou"
+    "premierArc": "Zou",
+    "image": "inuarashi.webp"
   },
   {
     "id": 60,
@@ -720,7 +776,8 @@
     "prime": 0,
     "hauteur": 522,
     "origine": "Grand Line",
-    "premierArc": "Zou"
+    "premierArc": "Zou",
+    "image": "nekomamushi.jpg"
   },
   {
     "id": 61,
@@ -732,7 +789,8 @@
     "prime": 0,
     "hauteur": 382,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "oden.webp"
   },
   {
     "id": 62,
@@ -744,7 +802,8 @@
     "prime": 200000000,
     "hauteur": 195,
     "origine": "South Blue",
-    "premierArc": "Sabaody"
+    "premierArc": "Sabaody",
+    "image": "killer.jpg"
   },
   {
     "id": 63,
@@ -756,7 +815,8 @@
     "prime": 546000000,
     "hauteur": 336,
     "origine": "North Blue",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "Whoswho.webp"
   },
   {
     "id": 64,
@@ -768,7 +828,8 @@
     "prime": 480000000,
     "hauteur": 820,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "maria.jpg"
   },
   {
     "id": 65,
@@ -780,7 +841,8 @@
     "prime": 472000000,
     "hauteur": 318,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "sasaki.jpg"
   },
   {
     "id": 66,
@@ -792,7 +854,8 @@
     "prime": 400000000,
     "hauteur": 173,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "ulti.jpeg"
   },
   {
     "id": 67,
@@ -804,11 +867,12 @@
     "prime": 290000000,
     "hauteur": 171,
     "origine": "Grand Line",
-    "premierArc": "Wano"
+    "premierArc": "Wano",
+    "image": "page1.webp"
   },
   {
     "id": 68,
-    "nom": "Helmeppo",
+    "nom": "Helmep",
     "genre": "Homme",
     "affiliation": "Marine",
     "fruitDuDemon": null,
@@ -816,7 +880,8 @@
     "prime": 0,
     "hauteur": 179,
     "origine": "East Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "helmep.webp"
   },
   {
     "id": 69,
@@ -828,7 +893,8 @@
     "prime": 0,
     "hauteur": 170,
     "origine": "East Blue",
-    "premierArc": "Loguetown"
+    "premierArc": "Loguetown",
+    "image": "tashigi.jpeg"
   },
   {
     "id": 70,
@@ -840,7 +906,8 @@
     "prime": 100000000,
     "hauteur": 238,
     "origine": "Grand Line",
-    "premierArc": "Impel Down"
+    "premierArc": "Impel Down",
+    "image": "ivankov.webp"
   },
   {
     "id": 71,
@@ -852,7 +919,8 @@
     "prime": 0,
     "hauteur": 160,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "koala.webp"
   },
   {
     "id": 72,
@@ -864,7 +932,8 @@
     "prime": 20000000,
     "hauteur": 355,
     "origine": "East Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "jesus.webp"
   },
   {
     "id": 73,
@@ -876,7 +945,8 @@
     "prime": 0,
     "hauteur": 340,
     "origine": "Grand Line",
-    "premierArc": "Impel Down"
+    "premierArc": "Impel Down",
+    "image": "shiliew.webp"
   },
   {
     "id": 74,
@@ -888,7 +958,8 @@
     "prime": 64000000,
     "hauteur": 340,
     "origine": "East Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "vanaugur.webp"
   },
   {
     "id": 75,
@@ -900,7 +971,8 @@
     "prime": 42200000,
     "hauteur": 340,
     "origine": "West Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "lafitte.webp"
   },
   {
     "id": 76,
@@ -912,7 +984,8 @@
     "prime": 210000000,
     "hauteur": 242,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "sai.webp"
   },
   {
     "id": 77,
@@ -924,7 +997,8 @@
     "prime": 0,
     "hauteur": 23,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "leo.webp"
   },
   {
     "id": 78,
@@ -936,7 +1010,8 @@
     "prime": 0,
     "hauteur": 2200,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "hajrudin.webp"
   },
   {
     "id": 79,
@@ -948,7 +1023,8 @@
     "prime": 148000000,
     "hauteur": 480,
     "origine": "Grand Line",
-    "premierArc": "Dressrosa"
+    "premierArc": "Dressrosa",
+    "image": "orlumbus.webp"
   },
   {
     "id": 80,
@@ -960,7 +1036,8 @@
     "prime": 0,
     "hauteur": 160,
     "origine": "West Blue",
-    "premierArc": "Thriller Bark"
+    "premierArc": "Thriller Bark",
+    "image": "perona.jpg"
   },
   {
     "id": 81,
@@ -972,7 +1049,8 @@
     "prime": 0,
     "hauteur": 491,
     "origine": "Grand Line",
-    "premierArc": "Impel Down"
+    "premierArc": "Impel Down",
+    "image": "magellan.webp"
   },
   {
     "id": 82,
@@ -984,7 +1062,8 @@
     "prime": 0,
     "hauteur": 303,
     "origine": "Grand Line",
-    "premierArc": "Impel Down"
+    "premierArc": "Impel Down",
+    "image": "hannyabal.webp"
   },
   {
     "id": 83,
@@ -996,7 +1075,8 @@
     "prime": 0,
     "hauteur": 206,
     "origine": "North Blue",
-    "premierArc": "Romance Dawn"
+    "premierArc": "Romance Dawn",
+    "image": "beckman.jpg"
   },
   {
     "id": 84,
@@ -1008,11 +1088,12 @@
     "prime": 0,
     "hauteur": 193,
     "origine": "East Blue",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "kaku.webp"
   },
   {
     "id": 85,
-    "nom": "Jabra",
+    "nom": "Jabura",
     "genre": "Homme",
     "affiliation": "CP9",
     "fruitDuDemon": "Zoan",
@@ -1020,7 +1101,8 @@
     "prime": 0,
     "hauteur": 212,
     "origine": "North Blue",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "jebura.png"
   },
   {
     "id": 86,
@@ -1032,7 +1114,8 @@
     "prime": 0,
     "hauteur": 185,
     "origine": "Grand Line",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "kalifa.webp"
   },
   {
     "id": 87,
@@ -1044,7 +1127,8 @@
     "prime": 0,
     "hauteur": 258,
     "origine": "North Blue",
-    "premierArc": "Water 7"
+    "premierArc": "Water 7",
+    "image": "blueno.webp"
   },
   {
     "id": 88,
@@ -1056,11 +1140,12 @@
     "prime": 20000000,
     "hauteur": 263,
     "origine": "Grand Line",
-    "premierArc": "Arlong Park"
+    "premierArc": "Arlong Park",
+    "image": "arlong.avif"
   },
   {
     "id": 89,
-    "nom": "Hatchan",
+    "nom": "Octo",
     "genre": "Homme",
     "affiliation": "Pirates du Soleil",
     "fruitDuDemon": null,
@@ -1068,7 +1153,8 @@
     "prime": 0,
     "hauteur": 220,
     "origine": "Grand Line",
-    "premierArc": "Arlong Park"
+    "premierArc": "Arlong Park",
+    "image": "octo.webp"
   },
   {
     "id": 90,
@@ -1080,7 +1166,8 @@
     "prime": 0,
     "hauteur": 207,
     "origine": "Grand Line",
-    "premierArc": "Drum"
+    "premierArc": "Drum",
+    "image": "wapol.webp"
   },
   {
     "id": 91,
@@ -1092,19 +1179,21 @@
     "prime": 24000000,
     "hauteur": 180,
     "origine": "South Blue",
-    "premierArc": "Long Ring Long Land"
+    "premierArc": "Long Ring Long Land",
+    "image": "foxy.png"
   },
   {
     "id": 92,
-    "nom": "Mr. 2 (Bon Kurei)",
+    "nom": "Mr. 2 (Bon Clay)",
     "genre": "Homme",
-    "affiliation": "Baroque Works",
+    "affiliation": "Newkama Land",
     "fruitDuDemon": "Paramecia",
     "haki": [],
     "prime": 32000000,
     "hauteur": 238,
     "origine": "East Blue",
-    "premierArc": "Alabasta"
+    "premierArc": "Alabasta",
+    "image": "bonclay.webp"
   },
   {
     "id": 93,
@@ -1116,7 +1205,8 @@
     "prime": 75000000,
     "hauteur": 212,
     "origine": "West Blue",
-    "premierArc": "Alabasta"
+    "premierArc": "Alabasta",
+    "image": "daz.webp"
   },
   {
     "id": 94,
@@ -1128,11 +1218,12 @@
     "prime": 24000000,
     "hauteur": 179,
     "origine": "South Blue",
-    "premierArc": "Little Garden"
+    "premierArc": "Little Garden",
+    "image": "galdino.webp"
   },
   {
     "id": 95,
-    "nom": "Jozu",
+    "nom": "Joz",
     "genre": "Homme",
     "affiliation": "Équipage de Barbe Blanche",
     "fruitDuDemon": "Paramecia",
@@ -1140,7 +1231,8 @@
     "prime": 0,
     "hauteur": 503,
     "origine": "West Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "joz.webp"
   },
   {
     "id": 96,
@@ -1152,7 +1244,8 @@
     "prime": 0,
     "hauteur": 328,
     "origine": "North Blue",
-    "premierArc": "Jaya"
+    "premierArc": "Jaya",
+    "image": "vista.jpg"
   },
   {
     "id": 97,
@@ -1164,7 +1257,8 @@
     "prime": 0,
     "hauteur": 251,
     "origine": "Grand Line",
-    "premierArc": "Enies Lobby"
+    "premierArc": "Enies Lobby",
+    "image": "momonga.webp"
   },
   {
     "id": 98,
@@ -1176,7 +1270,8 @@
     "prime": 0,
     "hauteur": 220,
     "origine": "Grand Line",
-    "premierArc": "Enies Lobby"
+    "premierArc": "Enies Lobby",
+    "image": "onigumo.webp"
   },
   {
     "id": 99,
@@ -1188,7 +1283,8 @@
     "prime": 230000000,
     "hauteur": 520,
     "origine": "Grand Line",
-    "premierArc": "Île des Hommes-Poissons"
+    "premierArc": "Île des Hommes-Poissons",
+    "image": "tiger.webp"
   },
   {
     "id": 100,
@@ -1200,6 +1296,7 @@
     "prime": 0,
     "hauteur": 272,
     "origine": "North Blue",
-    "premierArc": "Zou"
+    "premierArc": "Zou",
+    "image": "judge.webp"
   }
 ]
